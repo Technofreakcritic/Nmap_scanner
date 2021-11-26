@@ -9,4 +9,6 @@ Program can
   - Run Port Scan
   - Run Nmap Vuln Scan
 
+Additionally all results will be saved in HTML, XML and Ping List folder respectively for easier navigation.
+
 All process can be run seperately or simultaneously depending on the user's choice of input
