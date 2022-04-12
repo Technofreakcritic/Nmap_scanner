@@ -1,0 +1,2 @@
+pyfiglet==0.8.post0
+python-nmap==0.7.1
